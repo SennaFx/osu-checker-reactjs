@@ -1,0 +1,18 @@
+.beatmap {
+  max-width: 700px;
+  margin: 10px auto 0;
+}
+
+.beatmap div {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  line-height: 30px;
+}
+
+.beatmap div div {
+  display: flex;
+  margin-top: 10px;
+  justify-content: space-between;
+  align-items: center;
+}

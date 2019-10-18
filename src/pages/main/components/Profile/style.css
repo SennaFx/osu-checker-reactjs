@@ -1,0 +1,32 @@
+.profile {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    background: #24292e;
+    border-radius: 10px;
+    padding-right: 10px;
+    overflow: hidden;
+  }
+  
+  .profile img {
+    width: 200px;
+    margin-right: 10px;
+    float: left;
+  }
+  
+  .profile ul {
+    margin-top: 8px;
+    list-style: none;
+  }
+  
+  .profile ul li {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .profile ul li p {
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 30px;
+  }
+  

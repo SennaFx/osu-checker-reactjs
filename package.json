@@ -2,9 +2,11 @@
   "name": "webep",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://sfxosu.ml/v2",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0"
   },
   "scripts": {
